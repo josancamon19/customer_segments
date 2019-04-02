@@ -3,8 +3,6 @@
 
 In this project I Reviewed unstructured data to understand the patterns and natural categories that the data fits into. I Used multiple algorithms and both empirically and theoretically compared and contrasted their results. Made predictions about the natural categories of multiple types in a dataset, then checked these predictions against the result of an unsupervised analysis.
 
-See project Creating Customer Segments
-
 ### Install
 
 This project requires **Python 2.7** and the following Python libraries installed:
